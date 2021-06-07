@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidAccessibilityDemo</string>
+    <string name="service_name">无障碍服务测试</string>
+</resources>
